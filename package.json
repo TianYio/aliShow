@@ -1,0 +1,16 @@
+{
+  "name": "alishow",
+  "version": "1.0.0",
+  "description": "基于js、jquery和node开发的后台管理项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "jQery",
+    "Node.js"
+  ],
+  "author": "Tian",
+  "license": "ISC"
+}
